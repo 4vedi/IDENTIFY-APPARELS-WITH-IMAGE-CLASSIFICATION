@@ -8,26 +8,26 @@ A major challenge E-commerce face is categorizing these apparels from just the i
 This creates an interesting computer vision probelm and a HOT topic in machinelearning and deep learning researches..
 
 
-In this model, a dataset with 70k images will be used that will be broadly categorised into following 10 categories.
-Label	Description
-0	    T-shirt/top
-1	    Trouser
-2	    Pullover
-3	    Dress
-4	    Coat
-5	    Sandal
-6	    Shirt
-7	    Sneaker
-8	    Bag
-9	    Ankle boot
+In this model, a dataset with 70k images will be used that will be broadly categorised into following 10 categories.</br>
+Label	Description</br>
+0	    T-shirt/top</br>
+1	    Trouser</br>
+2	    Pullover</br>
+3	    Dress</br>
+4	    Coat</br>
+5	    Sandal</br>
+6	    Shirt</br>
+7	    Sneaker</br>
+8	    Bag</br>
+9	    Ankle boot</br>
 
 
-The data was divided as follows:
-TRAINING DATA : 48K IMAGES
-CROSS VALIDATION DATA: 12K IMAGES
-TESTING DATA: 10K IMAGES
+The data was divided as follows:</br>
+TRAINING DATA : 48K IMAGES</br>
+CROSS VALIDATION DATA: 12K IMAGES</br>
+TESTING DATA: 10K IMAGES</br>
 
-#THE MODEL PREDICTED THE TESTING DATA WITH 93%.
+#THE MODEL PREDICTED THE TESTING DATA WITH 93%.</br>
 NOTE: Accuracy can be increased by regularisaton techniques.
 
 
