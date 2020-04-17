@@ -1,5 +1,5 @@
 # UPLOAD IN PROGRESS.
-
+NOTE: THIS WASN'T A PERSONAL PROJECT BUT DEVELOPED DURING A COMPETITION. ALSO, THE DATASET WAS PROVIDED BY THEM ONLY.<br><br>
 # IDENTIFY-APPARELS-WITH-IMAGE-CLASSIFICATION
 Identify and categorise the apparels into the correct categories (Shoe, Top, Trouser etc.) using just the image of the apparel.
 
